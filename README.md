@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi there 👋 I'm Manshi
 
-<!--
-**manshi-n/manshi-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
 
-Here are some ideas to get you started:
+- 🎓 B.Tech CSE (AI & Data Science) @ Graphic Era Hill University
+- 💻 Passionate about AI, Software Engineering & Backend Development
+- 🌱 Currently learning Advanced DSA and AI Engineering
+- 🚀 Interested in AI Systems, LLMs and Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+Python • Java • JavaScript • C++
+
+### AI & ML
+
+Machine Learning • Scikit-learn • Pandas • NumPy • LLM APIs • TF-IDF • Cosine Similarity
+
+### Backend
+
+Node.js • Express.js • REST APIs • JWT
+
+### Frontend
+
+React.js • HTML • CSS • Bootstrap
+
+### Database
+
+MongoDB • MySQL
+
+---
+
+## 🚀 Featured Projects
+
+### TalentLens AI
+
+AI-powered candidate intelligence platform.
+
+### AdvoCouncil
+
+Legal Consultation Platform.
+
+### AI-Powered Code Analysis Platform
+
+Compiler + LLM Debugging Assistant.
+
+---
+
+## 📫 Connect with me
+
+LinkedIn
+
+https://linkedin.com/in/manshi-negi
+
+GitHub
+
+https://github.com/manshi-n
